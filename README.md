@@ -1,5 +1,5 @@
 ![Luke James Tyler](https://i.imgur.com/pw4QIh9.png)
-### Hi, my name is Luke. I am currently a self-taught developer in my Junior year at Seton Hall University where I'm studying Finance and Computer Science. My current interests are in robotic process automation. Check out my socials below and shoot me a message if you want to chat.
+### Hi, my name is Luke 👋 I am currently a self-taught developer in my Junior year at Seton Hall University where I'm studying Finance and Computer Science. My current interests are in robotic process automation. Check out my socials below and shoot me a message if you want to chat ☕
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <p align="center" style="margin-top: 1rem;" >

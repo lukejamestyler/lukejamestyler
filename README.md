@@ -1,4 +1,4 @@
-![Luke James Tyler](https://drive.google.com/file/d/1ffEBch4EXoyqs35fUwHV-REdsfmowbST/view)
+![Luke James Tyler](https://i.imgur.com/pw4QIh9.png)
 
 
 <!--

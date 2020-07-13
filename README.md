@@ -1,6 +1,7 @@
 ![Luke James Tyler](https://i.imgur.com/pw4QIh9.png)
 ### Hi, my name is Luke. I am currently a self-taught developer in my Junior year at Seton Hall University where I'm studying Finance and Computer Science. My current interests are in robotic process automation. Check out my socials below and shoot me a message if you want to chat.
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <p align="center" style="margin-top: 1rem;" >
 	<a href="https://twitter.com/LukeJamesTyler"><img src="https://img.shields.io/twitter/follow/LukeJamesTyler?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/luke-james-tyler/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>

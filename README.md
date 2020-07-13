@@ -1,5 +1,9 @@
 ![Luke James Tyler](https://i.imgur.com/pw4QIh9.png)
 
+<p align="center">
+	<a href="https://twitter.com/LukeJamesTyler"><img src="https://img.shields.io/twitter/follow/LukeJamesTyler?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/luke-james-tyler/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
 <!--
 **lukejamestyler/lukejamestyler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
